@@ -1,8 +1,8 @@
 # CulturSync Luna
 
-Autonomous AI marketing agent that turns product briefs into escrow-backed UGC campaigns and TikTok-style ad creatives.
+Autonomous AI marketing agent that runs as a Telegram bot and turns product briefs into escrow-backed UGC campaigns and TikTok-style ad creatives.
 
-Luna is the execution agent inside CulturSync. A brand sends a product link, budget, target markets, and deliverables in Telegram. Luna evaluates campaign fit, negotiates the offer, protects the creative work behind escrow, generates campaign assets, and can render a short product showcase video with Kling.
+Luna is the execution agent inside CulturSync. The product experience is a Telegram bot: a brand sends a product link, budget, target markets, and deliverables directly in chat. Luna evaluates campaign fit, negotiates the offer, protects the creative work behind escrow, generates campaign assets, and can render a short product showcase video with Kling.
 
 For the hackathon demo, Solana is intentionally under the hood: the user sees a Solflare checkout page, while the bot builds and verifies devnet escrow transactions.
 
