@@ -1,5 +1,7 @@
 # CulturSync Luna
 
+[![CI](https://github.com/0jz/luna/actions/workflows/ci.yml/badge.svg)](https://github.com/0jz/luna/actions/workflows/ci.yml)
+
 A Telegram bot that turns a brand's product brief into an escrow-backed UGC campaign: it evaluates and prices the job, takes payment into a Solana devnet escrow, then delivers hooks, captions, a shot list and an AI-rendered product video.
 
 > **Naming:** *CulturSync* is the overall AI marketing product; *Luna* is the execution agent inside it that negotiates, handles escrow and delivers the creative. This repo is Luna, so the bot introduces itself as "CulturSync AI".
